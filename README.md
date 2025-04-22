@@ -11,10 +11,10 @@ Welcome to my GitHub! I’m a molecular and cellular biologist turned data scien
 Here’s a selection of personal, academic, and study-related projects that reflect my journey into applied data science:
 
 - 🔬 [**RNA-seq Prostate Cancer Clinical Outcome Analysis**](https://github.com/paulavazq/Final_Project_RNAseq)  
-  * _Identified clinical biomarkers using RNA-seq data, applying differential gene expression analysis and machine learning models (Logistic Regression, Random Forest, CNN on tabular data converted to images).
+  * Identified clinical biomarkers using RNA-seq data, applying differential gene expression analysis and machine learning models (Logistic Regression, Random Forest, CNN on tabular data converted to images).
 
 - 🧠 **Diabetes Prediction with Machine Learning** *(coming soon)*  
-  *Built supervised models (Logistic Regression, XGBoost) to predict diabetes risk from women patient health data.*
+  * Built supervised models (Logistic Regression, XGBoost) to predict diabetes risk from women patient health data.*
 
 - 🎵 **Audio Classification with Deep Learning** *(coming soon)*  
   * Developed CNN-based classifier for urban sound datasets classification (audio vs speach) using spectrograms, CNNs, and PyTorch *
