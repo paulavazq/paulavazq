@@ -42,7 +42,7 @@ Here’s a selection of personal, academic, and study-related projects that refl
 
 ## 🧠 Core Skills
 
-**Data Science / ML**
+** 📊 Data Science / ML**
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
 - R (ggplot2, bioinformatics packages)
 - SQL, ImageJ/Fiji, GraphPad
@@ -51,7 +51,7 @@ Here’s a selection of personal, academic, and study-related projects that refl
 - Git, Juypter notbooks, CVAT labelling software
 
 
-**Bio & Lab**
+** 🧪 Bio & Lab**
 - Transcriptomics: RNA-seq, RIP-seq, RT-qPCR, NGS
 - Proteomics, in vitro translation, protein expression, purification
 - Imaging: confocal microscopy, immunofluorescence
