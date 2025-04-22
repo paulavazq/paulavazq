@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maria Paula Vazquez Pianzola
 
-Welcome to my GitHub! I’m a molecular and cellular biologist turned data scientist, passionate about data-driven research, machine learning, and scientific discovery. With 20+ years of experience in academic research and recent training in applied data science, I combine deep domain knowledge with modern analytical tools to solve complex biological and biomedical problems. However I'm passionate about big-data driven solutions in other non biology domains.
+Welcome to my GitHub! I’m a molecular and cellular biologist turned data scientist, with 20+ years in academic research and fresh expertise in applied data science and machine learning. I combine deep scientific knowledge with modern analytical tools to tackle complex problems—especially in biology and biomedicine—but my passion extends beyond the lab. I'm driven by the power of big data to deliver insights and impact across domains.
 
 [📄 View My CV and full publications list](https://paulavazq.github.io/CV/)
 
