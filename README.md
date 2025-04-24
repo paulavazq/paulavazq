@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paula 
 
-Welcome to my GitHub! I’m a molecular and cellular biologist turned data scientist, with 20+ years in academic research and fresh expertise in applied data science and machine learning. I combine deep scientific knowledge with modern analytical tools to tackle complex problems—especially in biology and biomedicine—but my passion extends beyond the lab. I'm driven by the power of big data to deliver insights and impact across domains.
+Welcome to my GitHub! I’m a molecular and cellular biologist with over 20 years of experience in academic research and recent expertise in applied data science and machine learning. I combine deep scientific knowledge with modern analytical tools to tackle complex problems—particularly in biology and biomedicine—but my passion extends beyond these fields. I’m driven by the power of big data and eager to contribute to data-driven projects that deliver insights, solutions, and impactful results across various domains.
 
 [📄 View My CV and full publications list](https://paulavazq.github.io/CV/)
 
