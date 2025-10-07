@@ -42,13 +42,13 @@ Here’s a selection of personal, academic, and study-related projects that refl
 
 ## 🧠 Core Skills
 
-** 📊 Data Science / ML**
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
-- R (ggplot2, bioinformatics packages)
-- SQL, ImageJ/Fiji, GraphPad
-- Machine learning (classification, regression)
-- Deep learning (CNNs, computer vision)
-- Git, Juypter notbooks, CVAT labelling software
+**📊 Data Science / ML**
+
+- **Python**: Pandas, NumPy, matplotlib, seaborn, plotly, Scikit-learn, TensorFlow, PyTorch  
+- **R**: ggplot2, bioinformatics packages  
+- **Other tools**: SQL, ImageJ/Fiji, GraphPad, CVAT labeling software, Jupyter Notebooks, Git  
+- **Machine learning**: classification, regression  
+- **Deep learning / computer vision**: CNNs, autoencoders, diffusion models
 
 
 ** 🧪 Bio & Lab**
@@ -71,7 +71,7 @@ See full list → [CV & Publications](https://paulavazq.github.io/CV/)
 
 ## 📬 Let’s Connect
 
-I’m open to collaborations, data-driven research projects, and opportunities where life sciences meet data science.
+I’m open to collaborations, data-driven research projects in all disciplines.
 
 📧 paulavazq@gmail.com  
 📍 Bern, Switzerland  
