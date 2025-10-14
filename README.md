@@ -16,7 +16,7 @@ Here’s a selection of personal, academic, and study-related projects that refl
 - 🍬🩸 **Diabetes Prediction with Machine Learning** *(coming soon)*  
   * Built supervised models (Logistic Regression, XGBoost) to predict diabetes risk from women patient health data.*
 
-- 🎵 **Audio Classification with Deep Learning** *(coming soon)*  
+- 🎵 [**Audio Classification with Deep Learning**](https://github.com/paulavazq/Module-6_Music-Speach) 
   * Developed CNN-based classifier for urban sound datasets classification (audio vs speach) using spectrograms, CNNs, and PyTorch *
 
 - 👁️ 🐶 **Computer Vision Internship Project** *(in progress, private)*  
