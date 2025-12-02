@@ -52,19 +52,20 @@ Key tools: PyTorch, wfdb, neurokit2, scikit-learn, matplotlib..
 
 **📊 Data Science / ML**
 
-- **Python**: Pandas, NumPy, matplotlib, seaborn, plotly, Scikit-learn, TensorFlow, PyTorch  
-- **R**: ggplot2, bioinformatics packages  
-- **Other tools**: SQL, ImageJ/Fiji, GraphPad, CVAT labeling software, Jupyter Notebooks, Git  
-- **Machine learning**: classification, regression  
-- **Deep learning / computer vision**: CNNs, autoencoders, diffusion models
+- **Python:** Pandas, NumPy, matplotlib, seaborn, plotly, scikit-learn, TensorFlow, PyTorch  
+- **R:** ggplot2, bioinformatics packages  
+- **Other tools:** SQL, ImageJ/Fiji, GraphPad, CVAT labeling software, Jupyter Notebooks, Git
+- **Machine learning techniques:** Classification, regression
+- **Time Series Analysis:** Feature extraction, anomaly detection, and visualization for sequential data (ECGs, audio)
+- **Deep learning & computer vision:** Autoencoders, CNNs, diffusion models
 
 
 ** 🧪 Bio & Lab**
-- Transcriptomics: RNA-seq, RIP-seq, RT-qPCR, NGS
-- Proteomics, in vitro translation, protein expression, purification
-- Imaging: confocal microscopy, immunofluorescence
-- Model organisms: Drosophila, mammalian cells
-- CRISPR/Cas9, fly genetics
+- **Transcriptomics:** RNA-seq, RIP-seq, RT-qPCR, NGS  
+- **Proteomics:** In vitro translation, protein expression & purification  
+- **Imaging:** Confocal microscopy, immunofluorescence  
+- **Experimental models:** Drosophila, insect and mammalian cells  
+- **Genome editing:** CRISPR/Cas9, fly genetics
 
 ---
 
