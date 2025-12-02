@@ -23,19 +23,17 @@ Here’s a selection of personal, academic, and study-related projects that refl
 
 
 - 🎵 [**Audio Classification with Deep Learning**](https://github.com/paulavazq/Module-6_Music-Speach) 
-  * Developed CNN-based classifier for urban sound datasets classification (audio vs speach) using spectrograms, CNNs, and PyTorch *
-  * Tools:* PyTorch, librosa, scikit-learn, matplotlib
+  * Developed CNN-based classifier for urban sound datasets classification (audio vs speach) using spectrograms 
+  * Tools:* PyTorch, CNN, librosa, scikit-learn, matplotlib
+
+- 👁️ 🐶 **Computer Vision Internship Project** *(in progress, private)*  
+    *Behavioral tracking of dogs using deep learning object detection and pose estimation.
+    *Tools:* YOLO, YOLO-Pose, DeepLabCut, OpenCV, Python
 
 - 💊📈 [**Drug Sensitivity Prediction (IC50)**] *(coming soon)*
      * Predicting drug sensitivity (measured as IC50 values) based on cell line and drug features.  
-     * Comparing the performance of various machine learning models, including:  
-      Linear Regression, Random Forest, Tuned K-Nearest Neighbors, Ridge Regression, and Feed Forward Networks (FF).
+     * Comparing the performance of various machine learning models, including:  Linear Regression, Random Forest, Tuned K-Nearest Neighbors, Ridge Regression, and Feed Forward Networks (FF).
      * Tools:* scikit-learn, pandas, matplotlib, Optuna optimization, Keras (via TensorFlow)
-    
-
-- 👁️ 🐶 **Computer Vision Internship Project** *(in progress, private)*  
-    *Behavioral tracking of dogs using deep learning object detection and pose estimation.*
-    *Tools:* YOLO, DeepLabCut, OpenCV, Python
 
   
 - 🍬🩸 **Diabetes Prediction with Machine Learning**  
