@@ -9,11 +9,11 @@ Papers using bioinformatics,  molecular biology, genetics and cell biology appro
 
 ---
 
-## 🧪 Data Science and Machine Learning Projects
+## 🧪 Data Science and Machine Learning Projects 
 
 Here’s a selection of personal, academic, and study-related projects that reflect my journey into applied data science:
 
-- 🫀📈 [**ECG Anomaly detection with Autoencoders**]()
+- 🫀📈 [**ECG Anomaly detection with Autoencoders**](https://github.com/paulavazq/ecg-anomaly-detection-autoencoders)
   *  This project applies deep learning autoencoders to ECG signals, enabling anomaly detection and latent space visualization for improved understanding of cardiac patterns.
 Key tools: PyTorch, wfdb, neurokit2, scikit-learn, matplotlib..
 
