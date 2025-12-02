@@ -14,21 +14,33 @@ Papers using bioinformatics,  molecular biology, genetics and cell biology appro
 Here’s a selection of personal, academic, and study-related projects that reflect my journey into applied data science:
 
 - 🫀📈 [**ECG Anomaly detection with Autoencoders**](https://github.com/paulavazq/ecg-anomaly-detection-autoencoders)
-  *  This project applies deep learning autoencoders to ECG signals, enabling anomaly detection and latent space visualization for improved understanding of cardiac patterns.
-Key tools: PyTorch, wfdb, neurokit2, scikit-learn, matplotlib..
+   *  This project applies deep learning autoencoders to ECG signals, enabling anomaly detection and latent space visualization for improved understanding of cardiac patterns.
+   * Tools:* PyTorch, wfdb, neurokit2, scikit-learn, matplotlib, Optuna
 
 - 🧬 [**RNA-seq Prostate Cancer Clinical Outcome Analysis**](https://github.com/paulavazq/Final_Project_RNAseq)  
-  * Identified clinical biomarkers using RNA-seq data, applying differential gene expression analysis and machine learning models (Logistic Regression, Random Forest, CNN on tabular data converted to images). 
+   * Identified clinical biomarkers using RNA-seq data, applying differential gene expression analysis and machine learning models (Logistic Regression, Random Forest, CNN on tabular data converted to images).
+   * Tools:* Python, pandas, scikit-learn (Logistic Regression, Random Forest), TensorFlow/PyTorch, biopython, matplotlib
+
 
 - 🎵 [**Audio Classification with Deep Learning**](https://github.com/paulavazq/Module-6_Music-Speach) 
   * Developed CNN-based classifier for urban sound datasets classification (audio vs speach) using spectrograms, CNNs, and PyTorch *
+  * Tools:* PyTorch, librosa, scikit-learn, matplotlib
+
+- 💊📈 [**Drug Sensitivity Prediction (IC50)**] *(coming soon)*
+     * Predicting drug sensitivity (measured as IC50 values) based on cell line and drug features.  
+     * Comparing the performance of various machine learning models, including:  
+      Linear Regression, Random Forest, Tuned K-Nearest Neighbors, Ridge Regression, and Feed Forward Networks (FF).
+     * Tools:* scikit-learn, pandas, matplotlib, Optuna optimization, Keras (via TensorFlow)
+    
 
 - 👁️ 🐶 **Computer Vision Internship Project** *(in progress, private)*  
-  *Behavioral tracking of dogs using YOLO and DeepLabCut.*
+    *Behavioral tracking of dogs using deep learning object detection and pose estimation.*
+    *Tools:* YOLO, DeepLabCut, OpenCV, Python
 
   
 - 🍬🩸 **Diabetes Prediction with Machine Learning**  
-  * Built supervised models (Logistic Regression, XGBoost) to predict diabetes risk from women patient health data.*
+    * Built supervised models to predict diabetes risk from women patient health data (classification)*
+    *Tools:* Python, pandas, scikit-learn (Logistic Regression, XGBoost), matplotlib
 
 ---
 
