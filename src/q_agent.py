@@ -55,7 +55,34 @@ class QAgent:
             epsilon: Initial exploration rate for epsilon-greedy policy (0 ≤ ε ≤ 1)
             epsilon_decay: Rate at which epsilon decays after each episode
             epsilon_min: Minimum value for epsilon
+            
+        Raises:
+            ValueError: If parameters are outside valid ranges
         """
+        # Validate learning rate
+        if not (0 < learning_rate <= 1):
+            raise ValueError(f"learning_rate must be in (0, 1], got {learning_rate}")
+        
+        # Validate discount factor
+        if not (0 <= discount_factor <= 1):
+            raise ValueError(f"discount_factor must be in [0, 1], got {discount_factor}")
+        
+        # Validate epsilon
+        if not (0 <= epsilon <= 1):
+            raise ValueError(f"epsilon must be in [0, 1], got {epsilon}")
+        
+        # Validate epsilon_min
+        if not (0 <= epsilon_min <= 1):
+            raise ValueError(f"epsilon_min must be in [0, 1], got {epsilon_min}")
+        
+        # Validate epsilon_decay
+        if epsilon_decay <= 0:
+            raise ValueError(f"epsilon_decay must be positive, got {epsilon_decay}")
+        
+        # Validate epsilon >= epsilon_min
+        if epsilon < epsilon_min:
+            raise ValueError(f"epsilon ({epsilon}) must be >= epsilon_min ({epsilon_min})")
+        
         self.learning_rate = learning_rate
         self.discount_factor = discount_factor
         self.epsilon = epsilon
@@ -210,9 +237,19 @@ class QAgent:
         """
         Load the Q-table and agent parameters from a file.
         
+        WARNING: Loading pickle files from untrusted sources is a security risk.
+        Only load files that you have created yourself or trust completely.
+        
         Args:
             filename: Path to the file containing the saved agent
         """
+        import warnings
+        warnings.warn(
+            "Loading pickle files from untrusted sources is a security risk. "
+            "Only load files you trust.",
+            UserWarning
+        )
+        
         with open(filename, 'rb') as f:
             agent_data = pickle.load(f)
         

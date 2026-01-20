@@ -18,6 +18,8 @@ class SimpleGridWorld:
     -1 for each step, and the episode ends when the goal is reached.
     """
     
+    MAX_STEPS_PER_EPISODE = 100  # Maximum steps allowed per episode
+    
     def __init__(self, size=4):
         self.size = size
         self.reset()
@@ -94,7 +96,7 @@ def train_agent(episodes=500):
         steps = 0
         done = False
         
-        while not done and steps < 100:  # Max 100 steps per episode
+        while not done and steps < SimpleGridWorld.MAX_STEPS_PER_EPISODE:
             # Choose action
             possible_actions = env.get_possible_actions()
             action = agent.choose_action(state, possible_actions)
@@ -160,7 +162,7 @@ def test_agent(agent, num_tests=5):
         done = False
         path = [state]
         
-        while not done and steps < 100:
+        while not done and steps < SimpleGridWorld.MAX_STEPS_PER_EPISODE:
             possible_actions = env.get_possible_actions()
             action = agent.choose_action(state, possible_actions)
             next_state, reward, done = env.step(action)
