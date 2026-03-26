@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paula 
 
-Welcome to my GitHub! I’m a molecular and cellular biologist with over 20 years of experience in academic research and recent expertise in applied data science and machine learning. I combine deep scientific knowledge with modern analytical tools to tackle complex problems—particularly in biology and biomedicine—but my passion extends beyond these fields. I’m driven by the power of big data and eager to contribute to data-driven projects that deliver insights, solutions, and impactful results across various domains.
+I’m a molecular and cellular biologist with over 20 years of experience in academic research and recent expertise in applied data science and machine learning. I combine deep scientific knowledge with modern analytical tools to tackle complex problems—particularly in biology and biomedicine—but my passion extends beyond these fields. I’m driven by the power of big data and eager to contribute to data-driven projects that deliver insights, solutions, and impactful results across various domains.
 
 ## View my CV and Full Publication List:
 Papers using bioinformatics,  molecular biology, genetics and cell biology approaches to study various aspects of RNA biology, developmental biology, the cell cycle, and cancer.
